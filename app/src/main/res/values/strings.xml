@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Explicit Intent Video</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="welcome_to_activity_2">Welcome to activity 2</string>
+    <string name="enter_your_surname">Enter your surname</string>
+    <string name="submit">Submit</string>
+    <string name="wa2">welcome to activity 2</string>
+    <string name="ndr">No data received</string>
+</resources>
